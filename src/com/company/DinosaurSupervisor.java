@@ -7,7 +7,6 @@ public class DinosaurSupervisor{
         Dinosaur triceratops = new Dinosaur();
         t_rex.roar();
         velociraptor.roar();
-        //kickback
         triceratops.roar();
     }
 }
