@@ -1,5 +1,5 @@
 package com.company;
-import java.util.*;
+import java.util.*;  // not used
 public class DinosaurSupervisor{
     public static void main(String[] args) {
         Dinosaur t_rex = new Dinosaur();
