@@ -7,6 +7,6 @@ public class DinosaurSupervisor{
         Dinosaur triceratops = new Dinosaur();
         t_rex.roar();
         velociraptor.roar();
-        triceratops.roar();
+        triceratops.roar();//ttttttt
     }
 }
