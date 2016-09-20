@@ -6,6 +6,6 @@ package com.company;
 public class Dinosaur {
 
     public void roar(){
-        System.out.println("GRRRR!!");
+        System.out.println("GRRRR!!  I'm extinct.");
     }
 }
